@@ -26,4 +26,4 @@ Only two functions were created. One for model analysis showing up it's performa
   Receives both models and creates a graphic comparison between their metrics. For this case, it is setted to show up Random Forest and Gradient Boost for identification.
 
 ## ✨ Models
-Two models were trained for this case, Random Forest Regressor and Gradietn Boost Regressor. The model that showed up better results was Random Forest Regressor and was the final selected model.
+Two models were trained for this case, Random Forest Regressor and Gradient Boost Regressor. The model that showed up better results was Random Forest Regressor and was the final selected model.
